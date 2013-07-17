@@ -1,0 +1,6 @@
+newmtl Leaf_Palm
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.122357 0.168878 0.0496523
+map_Kd Leaf_Palm.bmp
