@@ -1,0 +1,733 @@
+<MaxAnimation version="1.00" date="Mon Jul 22 09:52:49 2013">
+    <SceneInfo fileName="personnage aminmation frappe.max" startTick="0" endTick="6400" frameRate="30" ticksPerFrame="160" />
+    <CustomData />
+    <Node name="Plane001" parentNode="sub02" parentNodeIndex="2" distanceToParent="76.802032" numChildren="0">
+        <Samples count="41">
+            <S t="0" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="160" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="320" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="480" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="640" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="800" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="960" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1120" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1280" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1440" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1600" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1760" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="1920" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2080" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2240" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2400" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2560" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2720" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="2880" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3040" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3200" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3360" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3520" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3680" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="3840" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4000" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4160" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4320" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4480" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4640" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4800" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="4960" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5120" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5280" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5440" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5600" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5760" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="5920" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="6080" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="6240" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+            <S t="6400" v="-0.999785 0.000000 0.020715 0.000000 -1.000000 0.000000 0.020715 0.000000 0.999785 30.898174 -7.781364 -16.602657" />
+        </Samples>
+        <Controller name="Plane001 \ Transform" classOf="Position/Rotation/Scale" classID="2005,0" superClassID="9008" subNum="2" numChildren="3" filterType="transform" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="41">
+                <MVal t="0" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="160" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="320" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="480" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="640" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="800" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="960" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1120" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1280" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1440" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1600" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1760" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="1920" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2080" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2240" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2400" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2560" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2720" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="2880" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3040" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3200" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3360" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3520" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3680" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="3840" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4000" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4160" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4320" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4480" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4640" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4800" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="4960" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5120" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5280" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5440" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5600" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5760" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="5920" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="6080" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="6240" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+                <MVal t="6400" v="-1.098614 0.0 0.020715 0.0 -1.225005 0.0 0.022762 0.0 0.999785 36.741039 -9.532213 -68.702576 " />
+            </Samples>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Position" classOf="Position XYZ" classID="118F7E02,FFEE238A" superClassID="900B" subNum="0" numChildren="3" filterType="pos" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="41">
+                <P3Val t="0" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="160" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="320" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="480" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="640" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="800" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="960" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1120" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1280" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1440" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1600" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1760" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="1920" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2080" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2240" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2400" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2560" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2720" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="2880" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3040" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3200" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3360" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3520" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3680" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="3840" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4000" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4160" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4320" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4480" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4640" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4800" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="4960" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5120" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5280" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5440" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5600" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5760" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="5920" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="6080" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="6240" v="36.741039 -9.532213 -68.702576 " />
+                <P3Val t="6400" v="36.741039 -9.532213 -68.702576 " />
+            </Samples>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Position \ X Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="posx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.741039 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.741039 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.741039 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.741039 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.741039 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Position \ Y Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="posy" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-9.532213 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-9.532213 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-9.532213 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-9.532213 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-9.532213 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Position \ Z Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="posz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-68.702576 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-68.702576 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-68.702576 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-68.702576 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-68.702576 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Rotation" classOf="Euler XYZ" classID="2012,0" superClassID="900C" subNum="1" numChildren="3" filterType="rot" outOfRangeBefore="constant" outOfRangeAfter="constant" eulerOrder="XZY" eulerRotatingFrame="true">
+            <Samples count="41">
+                <RVal t="0" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="160" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="320" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="480" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="640" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="800" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="960" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1120" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1280" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1440" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1600" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1760" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="1920" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2080" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2240" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2400" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2560" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2720" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="2880" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3040" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3200" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3360" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3520" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3680" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="3840" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4000" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4160" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4320" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4480" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4640" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4800" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="4960" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5120" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5280" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5440" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5600" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5760" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="5920" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="6080" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="6240" v="0.010358 0.0 0.999946 0.0 " />
+                <RVal t="6400" v="0.010358 0.0 0.999946 0.0 " />
+            </Samples>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Rotation \ X Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="rotx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-3.141593 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-3.141593 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-3.141593 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-3.141593 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-3.141593 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Rotation \ Y Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="roty" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.162309 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.162309 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.162309 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.162309 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="3.162309 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Rotation \ Z Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="rotz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Transform \ Scale" classOf="Bezier Scale" classID="2010,0" superClassID="900D" subNum="2" numChildren="0" filterType="scale" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="5" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.098850 1.225005 1.0 0.0 -0.010358 0.0 0.999946 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.098850 1.225005 1.0 0.0 -0.010358 0.0 0.999946 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.098850 1.225005 1.0 0.0 -0.010358 0.0 0.999946 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.098850 1.225005 1.0 0.0 -0.010358 0.0 0.999946 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.098850 1.225005 1.0 0.0 -0.010358 0.0 0.999946 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 338" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="337" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.839001 -2.203700 63.233898 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.811829 -3.551296 61.922703 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 339" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="338" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.795200 -2.422900 64.393402 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.757149 -2.567677 62.556843 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 340" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="339" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.871498 -2.358800 62.187901 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.143932 -0.972946 64.398354 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.077675 -2.036919 61.200542 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 341" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="340" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.940601 -2.576600 64.206100 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.908249 -2.814098 62.644527 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 342" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="341" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.001701 -2.514000 61.686600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.245571 -0.522998 64.248573 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.172844 -2.032925 60.738789 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 343" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="342" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.173599 -2.730200 64.231201 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.144093 -2.860523 62.807102 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 344" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="343" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.255199 -2.669100 61.513000 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.478794 -0.388393 64.175179 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.404652 -2.068047 60.597019 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 345" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="344" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.450401 -2.883900 64.362503 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.422321 -2.807003 63.007256 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 346" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="345" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.566898 -2.824200 61.497601 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.774227 -0.406001 64.138855 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.701107 -2.121888 60.609810 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 347" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="346" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.727100 -3.037600 64.493797 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.700447 -2.753494 63.207409 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 348" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="347" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.871899 -2.979400 61.471100 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.062687 -0.412917 64.100258 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.990417 -2.174153 60.611877 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 349" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="348" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.003899 -3.191200 64.625000 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.978668 -2.700031 63.407421 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 350" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="349" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.164001 -3.134500 61.457901 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.338863 -0.432247 64.067825 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.267582 -2.225350 60.627914 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 351" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="350" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.280602 -3.344900 64.756302 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.256794 -2.646515 63.607574 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 352" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="351" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.437199 -3.289600 61.482300 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.597546 -0.487098 64.049629 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.527782 -2.276322 60.682453 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 353" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="352" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.557400 -3.498500 64.887604 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.535027 -2.592964 63.807644 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 354" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="353" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.680599 -3.444800 61.584202 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.829197 -0.615405 64.059166 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.761997 -2.328240 60.815853 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 355" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="354" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.834099 -3.652200 65.018799 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.813152 -2.539551 64.007751 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 356" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="355" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.883598 -3.599900 61.803600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.024612 -0.855087 64.110214 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.961594 -2.382008 61.068577 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 357" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="356" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.027699 -3.805800 65.153397 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.008156 -2.484524 64.210098 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 358" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="357" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.071301 -3.755100 62.069000 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.206337 -1.138420 64.177254 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.148132 -2.436749 61.367947 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 359" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="358" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.055099 -3.959500 65.294403 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.036915 -2.426769 64.417030 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 360" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="359" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.268902 -3.910200 62.308998 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.397057 -1.397663 64.235260 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.343315 -2.491120 61.641491 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 361" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="360" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.082199 -4.080500 65.414101 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.065037 -2.377201 64.585838 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 362" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="361" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.489899 -4.008200 62.538601 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.619915 -1.630527 64.340042 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.569504 -2.491757 61.906746 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 363" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="362" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.274899 -4.136200 65.484497 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.258102 -2.347057 64.673790 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 364" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="363" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.747398 -3.991900 62.773102 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.897675 -1.834941 64.547760 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.848648 -2.385060 62.181614 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 365" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="364" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.550600 -4.191900 65.530197 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.534472 -2.338359 64.751793 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 366" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="365" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.012001 -3.975700 63.032299 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.183170 -2.063106 64.761497 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.135910 -2.281098 62.480721 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 367" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="366" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.826200 -4.312900 65.575996 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.812004 -2.352962 64.890793 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 368" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="367" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.254499 -4.073700 63.336399 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.429495 -2.367542 64.884720 " inTanVal="-0.0 -0.000073 -0.0 " outTanVal="0.0 0.000073 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.386696 -2.289704 62.819077 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 370" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="369" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.300100 -4.285900 64.055801 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.475595 -3.098484 65.055756 " inTanVal="-0.0 -0.000391 -0.0 " outTanVal="0.0 0.000391 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.444920 -2.410332 63.575356 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 375" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="374" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.342999 -2.505000 63.727001 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.314964 -3.189198 62.374012 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 377" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="376" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.451698 -2.274500 63.857498 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.417446 -2.982719 62.204193 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 378" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="377" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.929798 -2.646900 62.870899 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.160885 -1.731427 64.153435 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="43.112270 -2.517563 61.807217 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 379" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="378" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.723499 -2.424700 62.329498 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.977459 -1.144535 64.236855 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.916439 -2.233013 61.291729 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 380" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="379" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.542900 -2.788800 61.904400 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.726646 -0.842864 63.798710 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.665684 -2.538785 60.856411 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 381" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="380" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.021599 -2.574800 61.158600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.225048 -0.056983 63.866310 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.148121 -2.203869 60.153736 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 382" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="381" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.208698 -2.930800 60.717300 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.337608 0.255284 63.370014 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="42.261215 -2.553097 59.682842 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 383" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="382" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.360699 -2.725000 60.290699 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.522293 0.740387 63.578323 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.433971 -2.200650 59.315544 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 384" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="383" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.868698 -3.072700 59.456600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.940617 1.423859 62.920643 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.847698 -2.561635 58.436226 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 385" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="384" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.755199 -2.875100 59.671799 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.881775 1.298912 63.354778 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.785801 -2.221631 58.722569 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 386" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="385" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.464600 -3.214700 58.269299 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.482658 2.523583 62.503460 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.374153 -2.565972 57.266235 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 387" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="386" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.164001 -3.025300 59.155300 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.258457 1.759346 63.158997 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.156349 -2.251504 58.230885 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 388" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="387" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="41.001202 -3.356600 57.074299 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.966011 3.631859 62.093960 " inTanVal="0.000033 -0.0 -0.0 " outTanVal="-0.000033 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.841656 -2.561204 56.091797 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 389" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="388" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.545601 -3.175400 58.594398 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.606987 2.262742 62.954697 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.498039 -2.274480 57.696411 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 390" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="389" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.483601 -3.498600 55.790600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.393211 4.825882 61.667160 " inTanVal="0.000048 -0.0 -0.0 " outTanVal="-0.000048 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.251591 -2.542959 54.831856 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 391" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="390" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.875702 -3.325600 58.086498 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.906338 2.716519 62.774517 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.791199 -2.293668 57.217560 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 392" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="391" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.862999 -3.640500 54.612900 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.722092 5.920750 61.288830 " inTanVal="0.000062 -0.0 -0.0 " outTanVal="-0.000062 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.564507 -2.516889 53.683155 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 393" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="392" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.129902 -3.475700 57.729000 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.135460 3.028203 62.651409 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.016144 -2.311841 56.892735 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 394" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="393" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="39.090801 -3.782500 53.736000 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.910675 6.731342 61.024361 " inTanVal="0.000073 -0.0 -0.0 " outTanVal="-0.000073 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.741154 -2.489088 52.842491 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 395" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="394" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.265400 -3.625900 57.681599 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.256989 3.046086 62.639462 " inTanVal="0.000016 -0.0 -0.0 " outTanVal="-0.000016 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.137726 -2.333577 56.883434 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 396" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="395" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="38.080898 -3.924400 53.479401 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.883831 6.954330 60.982578 " inTanVal="0.000077 -0.0 -0.0 " outTanVal="-0.000077 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="37.710835 -2.468069 52.633015 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 397" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="396" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.238899 -3.776000 58.104198 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.233154 2.618386 62.793255 " inTanVal="0.000011 -0.0 -0.0 " outTanVal="-0.000011 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.120403 -2.363030 57.351406 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 398" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="397" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.747200 -4.066400 54.162601 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.566391 6.286255 61.271881 " inTanVal="0.000072 -0.0 -0.0 " outTanVal="-0.000072 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="36.402828 -2.462812 53.377842 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 399" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="398" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.234600 -3.926200 58.707500 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.236698 2.017663 62.996639 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.133133 -2.407643 57.998306 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 400" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="399" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.457802 -4.208300 55.207401 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.303665 5.272030 61.660709 " inTanVal="0.000063 -0.0 -0.0 " outTanVal="-0.000063 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="35.154907 -2.487596 54.480736 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 401" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="400" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.436401 -4.076400 59.202499 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.440151 1.516278 63.133850 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.344681 -2.474572 58.526085 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 402" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="401" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.580700 -4.350300 56.035599 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.440834 4.456456 61.917107 " inTanVal="0.000058 -0.0 -0.0 " outTanVal="-0.000058 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="34.304672 -2.557103 55.345413 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 403" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="402" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.731499 -4.161200 59.677700 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.745728 1.051327 63.311272 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.657089 -2.488942 59.032928 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 404" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="403" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.890202 -4.426900 56.823898 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.771511 3.694664 62.192310 " inTanVal="0.000051 -0.0 -0.0 " outTanVal="-0.000051 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.646603 -2.586050 56.164055 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 405" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="404" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.007099 -4.115500 60.221199 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.055573 0.560193 63.634899 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.972313 -2.376134 59.616558 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 406" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="405" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.160400 -4.373000 57.749100 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="33.089035 2.841568 62.637245 " inTanVal="0.000039 -0.0 -0.0 " outTanVal="-0.000039 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.974907 -2.489514 57.128937 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 407" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="406" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.228500 -4.069700 60.888699 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.315800 -0.048252 64.004211 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.239605 -2.263661 60.326729 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 408" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="407" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.322498 -4.319000 58.922199 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.307556 1.753914 63.173405 " inTanVal="0.000024 -0.0 -0.0 " outTanVal="-0.000024 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="32.207550 -2.393769 58.346790 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 409" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="408" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.361300 -4.154600 61.735600 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.472673 -0.864967 64.318207 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.408333 -2.279431 61.212860 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 410" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="409" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.307301 -4.395700 60.454102 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.340752 0.288430 63.721928 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="31.262066 -2.425412 59.924225 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 411" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="410" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.409901 -4.370100 62.874802 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.534004 -1.997825 64.609604 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.487957 -2.431389 62.387253 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 412" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="411" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.335400 -4.602900 62.079498 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.398056 -1.305847 64.168091 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.344528 -2.598267 61.584862 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 413" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="412" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.378500 -4.716100 64.418999 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.507380 -3.554492 64.911064 " inTanVal="-0.0 -0.000414 -0.0 " outTanVal="0.0 0.000414 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.487717 -2.727470 63.962021 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 414" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="413" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.627199 -4.940700 63.532501 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.688658 -2.779395 64.396729 " inTanVal="-0.0 -0.0 -0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.660788 -2.926411 63.051716 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Plane001 \ Modified Object \ Editable Mesh (Object) \ Master Point Controller \ Vertex 416" classOf="Bezier Point3" classID="200A,0" superClassID="9005" subNum="415" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="3" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.050900 -5.343900 64.899399 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.095940 -4.192699 64.516541 " inTanVal="-0.0 -0.000419 0.000089 " outTanVal="0.0 0.000419 -0.000089 " inLen="0.333300 0.333300 0.333300 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="29.093975 -3.332306 64.421776 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+    </Node>
+</MaxAnimation>
