@@ -1,0 +1,110 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.07.2013 08:24:37
+
+newmtl Bones___Vray01
+	Ns 31.1048
+	Ni 1.0000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl White___Vray01
+	Ns 31.1048
+	Ni 1.0000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Brown___Vray01
+	Ns 31.1048
+	Ni 1.0000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__37
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Unity Projects\Equipe3\texture pour perso\9143035-arriere-plan-texture-de-mexicain-serape-macro-rose-vibrant-tissu.jpg
+	map_Kd C:\Users\Public\Documents\Unity Projects\Equipe3\texture pour perso\9143035-arriere-plan-texture-de-mexicain-serape-macro-rose-vibrant-tissu.jpg
+
+newmtl Material__102
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__104
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__103
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.3500 0.3500 0.3500
